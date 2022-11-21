@@ -1,6 +1,5 @@
 ﻿
 
-# YouHsin 的 Python 
+### YuHsin 的 Python 
+#record some python learning history at NTU
 
-
-那就來吧~
